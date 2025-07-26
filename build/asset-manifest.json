@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/StudyNotion-App/static/css/main.a6915c28.css",
-    "main.js": "/StudyNotion-App/static/js/main.4f7fe0ac.js",
-    "static/media/signup.png": "/StudyNotion-App/static/media/signup.b431d919de01b6515dd6.png",
-    "static/media/login.png": "/StudyNotion-App/static/media/login.4d877a447365e5137b67.png",
-    "static/media/frame.png": "/StudyNotion-App/static/media/frame.3a238e5f26d676376e1d.png",
-    "static/media/Logo.svg": "/StudyNotion-App/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
-    "index.html": "/StudyNotion-App/index.html",
-    "main.a6915c28.css.map": "/StudyNotion-App/static/css/main.a6915c28.css.map",
-    "main.4f7fe0ac.js.map": "/StudyNotion-App/static/js/main.4f7fe0ac.js.map"
+    "main.css": "/UpSkillr/static/css/main.a6915c28.css",
+    "main.js": "/UpSkillr/static/js/main.a70bda4b.js",
+    "static/media/signup.png": "/UpSkillr/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/UpSkillr/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/UpSkillr/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/UpSkillr/static/media/Logo.0d90853fa1468dbe2d8d82c0ea06b8b1.svg",
+    "index.html": "/UpSkillr/index.html",
+    "main.a6915c28.css.map": "/UpSkillr/static/css/main.a6915c28.css.map",
+    "main.a70bda4b.js.map": "/UpSkillr/static/js/main.a70bda4b.js.map"
   },
   "entrypoints": [
     "static/css/main.a6915c28.css",
-    "static/js/main.4f7fe0ac.js"
+    "static/js/main.a70bda4b.js"
   ]
 }
