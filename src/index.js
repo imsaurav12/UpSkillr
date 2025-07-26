@@ -6,7 +6,7 @@ import { Toaster } from "react-hot-toast";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter basename="/StudyNotion-App">
+  <BrowserRouter basename="/UpSkillr">
     <App />
     <Toaster />
   </BrowserRouter>
